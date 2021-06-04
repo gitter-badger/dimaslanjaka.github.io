@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vuepress-plugin-blog" vcs="" />
+    <mapping directory="$PROJECT_DIR$/vuepress-plugin-blog/vuepress-plugin-disqus" vcs="" />
+    <mapping directory="$PROJECT_DIR$/vuepress-plugin-blog/vuepress-plugin-feed" vcs="" />
+    <mapping directory="$PROJECT_DIR$/vuepress-plugin-blog/vuepress-plugin-mailchimp" vcs="" />
+    <mapping directory="$PROJECT_DIR$/vuepress-plugin-blog/vuepress-plugin-sitemap" vcs="" />
+  </component>
+</project>

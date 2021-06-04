@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23e1b51e-f0af-4f16-99da-bfb392be89c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dimaslanjaka.github.io-gh-pages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020/6/4/hello-html.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuepress-theme-blog/.idea/vuepress-theme-blog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/FUNDING.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/feature_request.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vuepress-theme-blog.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Feed.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Footer.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Header.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/MobileHeader.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Newsletter.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/PostMeta.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/PostTag.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Sticker.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Toc.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs-theme/.vuepress/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs-theme/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs-theme/assets/author.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs-theme/assets/content-author.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs-theme/assets/content-date.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs-theme/assets/content-location.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs-theme/assets/content-tags.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs-theme/assets/date.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs-theme/assets/location.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs-theme/assets/pagination.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs-theme/assets/simple-pagination.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs-theme/assets/summary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs-theme/assets/tags.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs-theme/config/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs-theme/config/front-matter.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs-theme/config/palette.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/11/07/frontmatter-in-vuepress-2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/11/07/frontmatter-in-vuepress-3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/11/07/frontmatter-in-vuepress/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/02/26/markdown-slot-2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/02/26/markdown-slot-3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/02/26/markdown-slot-4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/02/26/markdown-slot/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/05/06/writing-a-vuepress-theme-2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/05/06/writing-a-vuepress-theme-3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/05/06/writing-a-vuepress-theme-4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/05/06/writing-a-vuepress-theme/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/0.styles.fd4d1404.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/fonts/EJRVQgYoZZY2vCFuvAFWzr-_dSb_.b450bfca.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/fonts/EJRVQgYoZZY2vCFuvAFbzr-_dSb_nco.9738e026.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/search.83621669.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/10.4e104663.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/11.7333af3f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/12.1f109856.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/13.1e479814.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/14.01f3791c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/15.aa19eaed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/16.b99d22a7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/17.7cca3770.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/18.fb15b3ae.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/19.3f6c8af1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/20.c8c1da5e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/21.b3308ac8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/22.9b3a7523.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/23.2d0c15bb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/24.6995a357.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/25.83bb93c9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/26.ecbdb49d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/27.ea70e538.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/28.04453c65.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/29.b0d972fb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/3.cca9be9b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/4.d6f11181.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/5.0a0b3725.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/6.feccc8ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/7.3917c584.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/8.6bb096c1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/9.0345cc55.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/app.9f101e6d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/vuejs-paginate.dacd362e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/page/2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/page/3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rss.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/blog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/frontmatter/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/markdown/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/theme/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/vuepress/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/vuepress/page/2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/vuepress/page/3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.vuepress/components/Foo/Bar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.vuepress/components/OtherComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.vuepress/components/demo-component.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.vuepress/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.vuepress/enhanceApp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.vuepress/styles/global.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.vuepress/styles/index.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.vuepress/styles/palette.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/_posts/2018-11-7-frontmatter-in-vuepress-2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/_posts/2018-11-7-frontmatter-in-vuepress-3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/_posts/2018-11-7-frontmatter-in-vuepress.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/_posts/2019-2-26-markdown-slot-2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/_posts/2019-2-26-markdown-slot-3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/_posts/2019-2-26-markdown-slot-4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/_posts/2019-2-26-markdown-slot.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/_posts/2019-5-6-writing-a-vuepress-theme-2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/_posts/2019-5-6-writing-a-vuepress-theme-3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/_posts/2019-5-6-writing-a-vuepress-theme-4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/_posts/2019-5-6-writing-a-vuepress-theme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/EJRVQgYoZZY2vCFuvAFSzr-_dSb_nco.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/EJRVQgYoZZY2vCFuvAFWzr-_dSb_.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/EJRVQgYoZZY2vCFuvAFYzr-_dSb_nco.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/EJRVQgYoZZY2vCFuvAFbzr-_dSb_nco.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/global-components/BaseListLayout.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/global-components/BlogTag.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/global-components/BlogTags.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/global-components/NavLink.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/FrontmatterKey.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/GlobalLayout.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/Layout.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/Post.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/code.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/config.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/font.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/index.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/mobile.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/palette.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/sw-popup.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/wrapper.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/__snapshots__/config.spec.js.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/config.spec.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tSgfJRBfRUNORoUc3mGbiMfIDE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="docs:dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="docs:dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.docs:dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23e1b51e-f0af-4f16-99da-bfb392be89c7" name="Default Changelist" comment="" />
+      <created>1622768008029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622768008029</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
