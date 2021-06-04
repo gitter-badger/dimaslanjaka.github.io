@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23e1b51e-f0af-4f16-99da-bfb392be89c7" name="Default Changelist" comment="Wrap to src folder" />
+    <list default="true" id="23e1b51e-f0af-4f16-99da-bfb392be89c7" name="Default Changelist" comment="Delete Old Docs">
+      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/adsense/addAdsTxt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/adsense/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/adsense/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/adsense/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/analystics/enhanceAppFile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/analystics/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/analystics/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_posts/2020/6/4/file-posts-structure.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.prettierrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.prettierrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +45,9 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="D:\Repositories\dimaslanjaka.github.io-gh-pages\node_modules\prettier" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="npm.docs:dev">
@@ -90,7 +108,21 @@
       <option name="project" value="LOCAL" />
       <updated>1622770916700</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="First build">
+      <created>1622771054795</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622771054795</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Delete Old Docs">
+      <created>1622771087995</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622771087995</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +138,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -113,6 +146,12 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Detach theme" />
     <MESSAGE value="Wrap to src folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wrap to src folder" />
+    <MESSAGE value="First build" />
+    <MESSAGE value="Delete Old Docs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete Old Docs" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
