@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23e1b51e-f0af-4f16-99da-bfb392be89c7" name="Default Changelist" comment="Detach theme" />
+    <list default="true" id="23e1b51e-f0af-4f16-99da-bfb392be89c7" name="Default Changelist" comment="Wrap to src folder" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +32,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="npm.docs:build">
+  <component name="RunManager" selected="npm.docs:dev">
     <configuration name="docs:build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -55,8 +55,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.docs:build" />
         <item itemvalue="npm.docs:dev" />
+        <item itemvalue="npm.docs:build" />
       </list>
     </recent_temporary>
   </component>
@@ -83,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622770572779</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Wrap to src folder">
+      <created>1622770916700</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622770916700</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +112,7 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Detach theme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Detach theme" />
+    <MESSAGE value="Wrap to src folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wrap to src folder" />
   </component>
 </project>
